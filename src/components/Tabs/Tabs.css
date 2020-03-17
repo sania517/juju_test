@@ -1,0 +1,31 @@
+.cities__list {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+.cities__table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+tr {
+    border-top: 1px solid black;
+}
+
+.cities__table td,
+.cities__table th {
+    padding: 5px 10px;
+    text-align: left;
+}
+
+.cities__table td:first-of-type {
+    font-weight: bold;
+}
+
+
+
+.cities__table th {
+    background-color: lightgray;
+}

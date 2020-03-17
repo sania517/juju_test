@@ -1,0 +1,28 @@
+.cities__button {
+    padding: 10px 20px;
+    margin: 0;
+    border:1px solid brown;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #fff;
+    outline: none;
+}
+
+.cities__button--active {
+    background-color: aquamarine;
+}
+
+.cities__item:first-of-type .cities__button {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-right: none;
+}
+
+.cities__item:last-of-type .cities__button {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-left: none;
+}
+
+
+
