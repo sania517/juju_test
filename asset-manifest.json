@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/juju_test/static/css/main.8d3507d8.chunk.css",
-    "main.js": "/juju_test/static/js/main.ea5b7957.chunk.js",
-    "main.js.map": "/juju_test/static/js/main.ea5b7957.chunk.js.map",
+    "main.js": "/juju_test/static/js/main.c47719ac.chunk.js",
+    "main.js.map": "/juju_test/static/js/main.c47719ac.chunk.js.map",
     "runtime-main.js": "/juju_test/static/js/runtime-main.13ae25d8.js",
     "runtime-main.js.map": "/juju_test/static/js/runtime-main.13ae25d8.js.map",
     "static/js/2.e30f422d.chunk.js": "/juju_test/static/js/2.e30f422d.chunk.js",
     "static/js/2.e30f422d.chunk.js.map": "/juju_test/static/js/2.e30f422d.chunk.js.map",
     "index.html": "/juju_test/index.html",
-    "precache-manifest.56d4036c3be04a1f81d6ff10a6eab1d1.js": "/juju_test/precache-manifest.56d4036c3be04a1f81d6ff10a6eab1d1.js",
+    "precache-manifest.bc8711960dc1ee268cd56619be48dca0.js": "/juju_test/precache-manifest.bc8711960dc1ee268cd56619be48dca0.js",
     "service-worker.js": "/juju_test/service-worker.js",
     "static/css/main.8d3507d8.chunk.css.map": "/juju_test/static/css/main.8d3507d8.chunk.css.map",
     "static/js/2.e30f422d.chunk.js.LICENSE.txt": "/juju_test/static/js/2.e30f422d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.13ae25d8.js",
     "static/js/2.e30f422d.chunk.js",
     "static/css/main.8d3507d8.chunk.css",
-    "static/js/main.ea5b7957.chunk.js"
+    "static/js/main.c47719ac.chunk.js"
   ]
 }
